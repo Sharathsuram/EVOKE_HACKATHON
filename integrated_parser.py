@@ -107,11 +107,16 @@ class IntegratedEmailSystem:
             <!DOCTYPE html>
             <html>
             <head>
-                <title>Latest Email Processing Results</title>
+                <title>Email Processing Results</title>
                 <meta http-equiv="refresh" content="60">
                 <link rel="stylesheet" href="styles.css">
             </head>
             <body>
+                <header>
+        <div class="logo-container">
+            <img src="logo.png" alt="Company Logo" class="logo">
+        </div>
+    </header>
                 <div class="container">
                     <h2>Latest Processed Email</h2>
                     <div class="section">

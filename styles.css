@@ -41,3 +41,16 @@ ol {
     margin: 0;
     padding-left: 20px;
 }
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f4f4f4; /* Optional background for header */
+}
+.logo-container {
+    margin-right: 20px;
+}
+.logo {
+    max-height: 100px; /* Adjust based on desired logo size */
+    width: auto;
+}
