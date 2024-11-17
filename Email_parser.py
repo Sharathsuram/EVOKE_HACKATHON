@@ -5,10 +5,11 @@ import pandas as pd
 from datetime import datetime
 import time
 import os
-
+from dotenv import load_dotenv
+load_dotenv()
 # Email configuration
 IMAP_SERVER = "imap.gmail.com"  # Replace with your email provider's IMAP server
-EMAIL = os.getenv("use_email")
+EMAIL = os.getenv("user_email")
 PASSWORD = os.getenv("password")
 
 def connect_to_email():
