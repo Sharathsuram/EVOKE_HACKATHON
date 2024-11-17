@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.section {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.label {
+    font-weight: bold;
+    color: #333;
+}
+
+.priority-high {
+    color: red;
+}
+
+.priority-medium {
+    color: orange;
+}
+
+.priority-low {
+    color: green;
+}
+
+.actions {
+    margin-left: 20px;
+}
+
+ol {
+    margin: 0;
+    padding-left: 20px;
+}
