@@ -1,11 +1,23 @@
 date,from,subject,body,request_type,category,actions,priority,processed_timestamp
+2024-11-17 16:38:13,SHARATH CHANDRA <sharath.suram@gmail.com>,Request for New Policy Quote,"Hi, I am interested in a new life insurance policy. Could you provide me with a quote for a 20-year term plan with $500,000 coverage? Thank you, Emily Brown.",New Policy Interest - Request for a quote for a new life insurance policy,Policy Update,"Review the email request and confirm the details
+Contact Emily Brown with the quote details and further information if needed
+Send the quote via preferred method (email or mail)",Medium,2024-11-17 16:38:38
+2024-11-17 16:35:29,SHARATH CHANDRA <sharath.suram@gmail.com>,Request for New Policy Quote,"Hi, I am interested in a new life insurance policy. Could you provide me with a quote for a 20-year term plan with $500,000 coverage? Thank you,",New Policy Interest - Request for a life insurance policy quote,Policy Update,"Review the email content for specific coverage details.
+Process the request by gathering necessary information from the customer.
+Contact the customer via email or phone to provide the quote and discuss options.",Medium,2024-11-17 16:38:35
+2024-11-17 16:30:44,"""hirist.tech"" <info@hirist.tech>","10+ Matching Jobs from leading companies like Makemytrip, Amazon
+ etc",Please Enable Javascript,Other - Employment-seeking inquiry,Other,"Review customer request details
+Determine appropriate department for handling
+Process request according to standard procedures
+Send confirmation and next steps to customer",Low,2024-11-17 16:38:33
 2024-11-17 16:13:59,Team Unstop <noreply@unstop.news>,SAP is hiring for Senior DevOps Engineer at INR 41 LPA!,,General Inquiry,Other,"Review customer request details
 Determine appropriate department for handling
 Process request according to standard procedures
 Send confirmation and next steps to customer",Medium,2024-11-17 16:22:26
-2024-11-17 16:00:10,no-reply@smytten.com,Knock knock! Your Order has been delivered!,,Other - Email delivery notification,Other,"Review the email to ensure it is not a phishing attempt.
-Contact the sender to confirm if the email is legitimate.
-Verify the order details to ensure there is no fraudulent activity.",Low,2024-11-17 16:27:21
+2024-11-17 16:00:10,no-reply@smytten.com,Knock knock! Your Order has been delivered!,,None - No request information provided in the email.,Other (Invalid Email),"Review customer request details
+Determine appropriate department for handling
+Process request according to standard procedures
+Send confirmation and next steps to customer",Low,2024-11-17 16:38:31
 2024-11-17 15:36:23,IndusInd Bank <mail@connect.indusind.com>,"Suram Sharath Chandra, enjoy the benefits of guaranteed returns
  With IndusInd Bank Fixed Deposits",,General Inquiry,Other,"Review customer request details
 Determine appropriate department for handling
